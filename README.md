@@ -4,7 +4,8 @@ Basic Tetris clone using Unity and C#
 
 Followed Coding Tutorial: https://www.youtube.com/watch?v=ODLzYI4d-J8 by Zigurous
 
-All Sprites are created by myself. 
+All Sprites are created by me. 
 
 ![Demo](./Demo/Demo.gif)
+
 [X.com Post](https://x.com/theoryoflinus/status/1924465914323579138)
