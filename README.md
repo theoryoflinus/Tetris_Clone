@@ -7,4 +7,4 @@ Followed Coding Tutorial: https://www.youtube.com/watch?v=ODLzYI4d-J8 by Zigurou
 All Sprites are created by myself. 
 
 ![Demo](./Demo/Demo.gif)
-![X.com Post](https://x.com/theoryoflinus/status/1924465914323579138)
+[X.com Post](https://x.com/theoryoflinus/status/1924465914323579138)
